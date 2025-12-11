@@ -33,11 +33,3 @@ It allows users to convert between **Celsius (°C)**, **Fahrenheit (°F)**, and 
 
 ### 📸 Preview  
 A neat converter that makes switching between temperature units quick and intuitive.  
-
----
-
-💡 *Perfect for beginners learning JavaScript DOM manipulation and real-world problem solving.* ✨  
-
----
-
-Would you like me to also create a **ready-to-use `README.md` file** version with proper Markdown formatting so you can directly add it to your GitHub repo?
