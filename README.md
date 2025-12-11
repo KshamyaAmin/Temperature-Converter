@@ -30,6 +30,3 @@ It allows users to convert between **Celsius (°C)**, **Fahrenheit (°F)**, and 
 3. Enter a temperature value, select the unit, and click **Convert** 🔥  
 
 ---
-
-### 📸 Preview  
-A neat converter that makes switching between temperature units quick and intuitive.  
