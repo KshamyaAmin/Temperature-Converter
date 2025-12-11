@@ -1,11 +1,14 @@
-## 🌡️ Temperature Converter  
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
+
+# 🌡️ Temperature Converter  
 
 A simple and elegant **Temperature Converter Web App** built with **HTML, CSS, and JavaScript**.  
 It allows users to convert between **Celsius (°C)**, **Fahrenheit (°F)**, and **Kelvin (K)** instantly with a clean UI.  
 
 ---
 
-### 🎨 Features  
+## 🎨 Features  
 - 🖌️ **Minimal & modern design** with responsive layout  
 - 🔄 **Instant conversion** between Celsius, Fahrenheit, and Kelvin  
 - ⚡ **Error handling** for invalid inputs  
@@ -14,19 +17,18 @@ It allows users to convert between **Celsius (°C)**, **Fahrenheit (°F)**, and 
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 - ⚡ **HTML5**  
 - 🎨 **CSS3** (custom styling, shadows, rounded corners)  
 - 🧩 **JavaScript** (conversion logic & validation)  
 
 ---
 
-### 🚀 How to Use  
+## 🚀 How to Use  
 1. Clone the repo  
    ```bash
    git clone https://github.com/your-username/temperature-converter.git
    ```  
 2. Open `index.html` in your browser  
 3. Enter a temperature value, select the unit, and click **Convert** 🔥  
-
 ---
